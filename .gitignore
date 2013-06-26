@@ -1,0 +1,4 @@
+logs
+*.log
+weechat_fifo*
+irc.conf
